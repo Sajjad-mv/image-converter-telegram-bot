@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 
 
 # Replace 'YOUR_API_KEY' with your actual bot token
-API_KEY = '7295844298:AAGwAe5brA5Yymk_3iMrZJXmxREfRLyK6eQ'
+API_KEY = 'Your_API_KEY'
 user_images = {}
 user_image_info = {}
 user_pdf_images = {}
