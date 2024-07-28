@@ -1,1 +1,1 @@
-worker: python persian_accountant_bot.py
+worker: python image-converter-bot.py
