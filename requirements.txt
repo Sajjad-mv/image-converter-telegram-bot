@@ -1,0 +1,4 @@
+python-telegram-bot==20.0
+Pillow==9.1.0
+pillow_heif==0.5.2
+openpyxl==3.0.9
